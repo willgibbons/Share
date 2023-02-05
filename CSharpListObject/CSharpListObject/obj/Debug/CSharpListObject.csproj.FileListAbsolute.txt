@@ -1,0 +1,10 @@
+C:\Users\willi\Desktop\CSharpListObject\CSharpListObject\bin\Debug\CSharpListObject.exe.config
+C:\Users\willi\Desktop\CSharpListObject\CSharpListObject\bin\Debug\CSharpListObject.exe
+C:\Users\willi\Desktop\CSharpListObject\CSharpListObject\bin\Debug\CSharpListObject.pdb
+C:\Users\willi\Desktop\CSharpListObject\CSharpListObject\obj\Debug\CSharpListObject.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\CSharpListObject\CSharpListObject\obj\Debug\CSharpListObject.Form.resources
+C:\Users\willi\Desktop\CSharpListObject\CSharpListObject\obj\Debug\CSharpListObject.Properties.Resources.resources
+C:\Users\willi\Desktop\CSharpListObject\CSharpListObject\obj\Debug\CSharpListObject.csproj.GenerateResource.cache
+C:\Users\willi\Desktop\CSharpListObject\CSharpListObject\obj\Debug\CSharpListObject.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\CSharpListObject\CSharpListObject\obj\Debug\CSharpListObject.exe
+C:\Users\willi\Desktop\CSharpListObject\CSharpListObject\obj\Debug\CSharpListObject.pdb
